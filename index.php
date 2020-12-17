@@ -73,12 +73,12 @@ require_once("sendmail.php");
 
 
 <div class="row mt-4">
-<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
+<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
 		<!-- <div class="videoWrapper" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
 			<div class="insideWrapper"> -->
 
 				<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
-					data-setup='{"fluid": true}' onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
+					data-setup='{"fluid": true}'>
 					<source src="goes.mp4" type="video/mp4" />
 					<p class="vjs-no-js">
 						To view this video please enable JavaScript, and consider upgrading to a
