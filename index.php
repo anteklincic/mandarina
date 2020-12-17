@@ -74,11 +74,11 @@ require_once("sendmail.php");
 
 <div class="row mt-4">
 
-<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3" >
-		<div class="videoWrapper" >
-		<div class="inner">
+	<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
+		<div class="videoWrapper">
+			<div class="inner">
 
-		<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
+				<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
 					data-setup='{"fluid": true}'>
 					<source src="goes.mp4" type="video/mp4" />
 					<p class="vjs-no-js">
@@ -87,11 +87,11 @@ require_once("sendmail.php");
 						<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
 					</p>
 				</video>
-		</div>
-		
+			</div>
+
 		</div>
 	</div>
-	
+
 
 
 	<div class="col-md-12 col-lg-6 px-0 pl-lg-2 pl-xl-2 pt-4 pt-xl-0 pt-lg-0">
@@ -172,25 +172,35 @@ require_once("sendmail.php");
 
 
 <script>
+	$(document).ready(function () {
+		var touchmoved;
+		$("#my-video").on('touchend', function (e) {
+			if (touchmoved != true) {
+				window.location = "/atv/goes450/index.php";
+			}
+		}).on('touchmove', function (e) {
+			touchmoved = true;
+		}).on('touchstart', function () {
+			touchmoved = false;
+		});
 
-$(document).ready(function(){
-    $("#my-video").on('click touchstart', function () {
-		window.location = "/atv/goes450/index.php";   
-    });
-});
+		$("#my-video").on('click', function () {
+			window.location = "/atv/goes450/index.php";
+		});
+	});
 
 
-// $('#my-video').vclick(function(){
-// 	window.location = "http://www.google.com/";    
-// });
+	// $('#my-video').vclick(function(){
+	// 	window.location = "http://www.google.com/";    
+	// });
 
-// $('#my-video').touchstart(function(){
-// 	window.location = "http://www.google.com/";    
-// });
+	// $('#my-video').touchstart(function(){
+	// 	window.location = "http://www.google.com/";    
+	// });
 
 
 
-	
+
 
 	videojs('my-video').ready(function () {
 		console.log("fa");
@@ -205,13 +215,13 @@ $(document).ready(function(){
 		}
 	});
 
-	$('#goes-div').on('click touchstart', function() {
-		window.open("https://www.youraddress.com","_self");
+	$('#goes-div').on('click touchstart', function () {
+		window.open("https://www.youraddress.com", "_self");
 		console.log("LOL");
 	});
 
-	$('.my-video').on('click touchstart', function() {
-		window.open("https://www.youraddress.com","_self");
+	$('.my-video').on('click touchstart', function () {
+		window.open("https://www.youraddress.com", "_self");
 		console.log("LOL");
 	});
 
