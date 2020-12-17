@@ -187,6 +187,9 @@ require_once("sendmail.php");
 		$("#my-video").on('click', function () {
 			window.location = "/atv/goes450/index.php";
 		});
+		var vid = document.getElementById("my-video");
+		vid.disablePictureInPicture = true;
+		vid.muted = true;
 	});
 
 
