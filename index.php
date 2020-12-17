@@ -73,11 +73,12 @@ require_once("sendmail.php");
 
 
 <div class="row mt-4">
-<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3 goes-div">
-		<!-- <div class="videoWrapper" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
-			<div class="insideWrapper"> -->
 
-				<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
+<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3" >
+		<div class="videoWrapper" >
+		<div class="inner">
+
+		<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
 					data-setup='{"fluid": true}'>
 					<source src="goes.mp4" type="video/mp4" />
 					<p class="vjs-no-js">
@@ -86,8 +87,12 @@ require_once("sendmail.php");
 						<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
 					</p>
 				</video>
-
+		</div>
+		
+		</div>
 	</div>
+	
+
 
 	<div class="col-md-12 col-lg-6 px-0 pl-lg-2 pl-xl-2 pt-4 pt-xl-0 pt-lg-0">
 		<a href="/sxs/zforce550ex/index.php"><img src="img2.png" class="bg1 img-fluid" alt="ccs_logo" /></a>
@@ -167,6 +172,28 @@ require_once("sendmail.php");
 
 
 <script>
+
+$(document).ready(function(){
+    $("#my-video").on('click', function () {
+		window.location = "/atv/goes450/index.php";   
+    });
+
+	$("#my-video").on('touchstart', function () {
+        window.location = "/atv/goes450/index.php";    
+    });
+});
+
+
+// $('#my-video').vclick(function(){
+// 	window.location = "http://www.google.com/";    
+// });
+
+// $('#my-video').touchstart(function(){
+// 	window.location = "http://www.google.com/";    
+// });
+
+
+
 	
 
 	videojs('my-video').ready(function () {
