@@ -1,0 +1,372 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+* {
+margin: 0;
+padding: 0;
+}
+
+h1 {
+	font-family: 'Tomorrow';
+}
+
+.slider-heading {
+  font-size: 3em;
+  padding-bottom: 50px;
+}
+.row h1{
+  font-weight: bold;
+}
+
+.vehicle-model {
+	font-family: 'Tomorrow';
+}
+@media (max-width: 1200px) {
+  .vehicle-model {
+    font-weight: bold;
+    font-size: 1.2em;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+	font-family: 'Tomorrow';
+  }
+  .image-div {
+    background:white;
+  }
+  .image-div p {
+    float: right;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 576px) {
+  .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .vehicle-model {
+    font-weight: bold;
+    font-size: 1.7em;
+    position: absolute;
+    right: 30px;
+    top: 20px;
+	font-family: 'Tomorrow';
+  }
+}
+
+@media (max-width: 1000px) {
+ 
+
+  .explore {
+    display: none;
+  }
+
+  .slider-heading {
+    display: none;
+  }
+}
+
+/*--- Navigation ---*/
+.navbar-custom {
+  background-color: #333333;
+}
+
+.navbar-nav li a {
+  text-transform: uppercase;
+}
+
+
+.nav-item a {
+  color: white;
+  	font-family: 'Tomorrow';
+  font-weight: bold;
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(0, 0, 0);
+}
+
+.custom-button {
+  background-color: #0099B9;
+  border-radius: 0;
+  color: white;
+  font-weight: bold;
+}
+
+
+.img-fluid {
+	width: 100%;
+	height: auto;
+}
+
+.bg1 {
+	padding-bottom: 100px;
+}
+
+h2 {
+	color: black;
+	font-weight: normal;
+	font-family: 'Tomorrow';
+}
+
+/*
+.col-md-6 {
+	background-color: red;
+}
+*/
+
+/*
+.main-container:not(:first-child) {
+	padding-bottom: 60px;
+}
+*/
+.full-width{
+    width:100%;
+}
+
+
+#pills-home-tab, #pills-profile-tab, #pills-contact-tab {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.nav-link {
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+}
+
+/* not active */
+.nav-pills .pill-1 .nav-link:not(.active) {
+    background-color: white;
+	color: black;
+}
+
+.nav-pills .pill-2 .nav-link:not(.active) {
+       background-color: white;
+	   color: black;
+}
+
+.nav-pills .pill-3 .nav-link:not(.active) {
+       background-color: white;
+	   color: black;
+}
+
+
+/* active (faded) */
+.nav-pills .pill-1 .nav-link {
+    background-color: #0099b9;
+}
+
+.nav-pills .pill-2 .nav-link {
+	background-color: #0099b9;
+}
+
+.nav-pills .pill-3 .nav-link {
+	background-color: #0099b9;
+}
+
+#pills-home-tab {
+	border-radius: 0;
+}
+
+#pills-profile-tab {
+	border-radius: 0;
+}
+
+#pills-contact-tab {
+	border-radius: 0;
+}
+
+
+table p {
+	margin-bottom: 0;
+}
+
+.left {
+	color: #666;
+}
+
+.small-text {
+	color: #666
+}
+
+.bg-no-overlay {
+    background: url("bg2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    height: 771px;
+    padding-top: 50px;	
+}
+
+/*
+.heading {
+	background-color: red;
+	min-height: 40px;
+	background: url(left_bracket.png) left no-repeat;
+	background-size: auto 100%;
+	display: inline-block;
+}
+*/
+
+.heading {
+min-height: 40px;
+background: url(left_bracket.png) left no-repeat;
+    background-size: auto;
+background-size: auto 100%;
+display: inline-block;
+box-sizing: border-box;
+line-height: 24px;
+}
+
+.heading-div {
+	line-height: 24px;
+	text-align: center;
+	
+}
+
+.heading-text {
+	min-height: 40px;
+background: url(right_bracket.png) right no-repeat;
+    background-size: auto;
+background-size: auto 100%;
+color:
+#000;
+display: inline-block;
+font-size: 1.3em;
+font-weight: normal;
+text-transform: uppercase;
+padding: 13px 20px;
+margin-bottom: 0;
+}
+
+
+/* HEADING BRACKETS */
+
+.heading {
+min-height: 40px;
+background: url(left_bracket.png) left no-repeat;
+    background-size: auto;
+background-size: auto 100%;
+display: inline-block;
+box-sizing: border-box;
+line-height: 24px;
+}
+
+.heading-div {
+	line-height: 24px;
+	text-align: center;
+	
+}
+
+.heading-text {
+	min-height: 40px;
+background: url(right_bracket.png) right no-repeat;
+    background-size: auto;
+background-size: auto 100%;
+color:
+#000;
+display: inline-block;
+font-size: 1em;
+font-weight: normal;
+text-transform: uppercase;
+padding: 13px 20px;
+margin-bottom: 0;
+}
+
+.main-container {
+	margin-top: 50px;
+}
+
+
+.custom-carousel-caption {
+  bottom: 150px;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.page-footer {
+	background-color: #333333;
+	color: white;
+		font-family: 'Tomorrow';
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+.panel-heading {
+  font-size: 1.6em;
+  font-family: 'Tomorrow';
+}
+
+.form-group.required .control-label:after {
+  content:"*";
+  color:red;
+}
+
+.submit-button {
+	border-radius: 0;
+	font-weight: bold;
+	font-size: 1.2em;
+	background-color: #0099b9;
+	color: white;
+	margin-bottom: 50px; /* ZA OBRISATI */
+}
+
+.social-media-icons {
+	font-size: 2em;
+}
+
+
+/* HEADING BRACKETS */
+
+.heading {
+min-height: 40px;
+background: url(left_bracket.png) left no-repeat;
+    background-size: auto;
+background-size: auto 100%;
+display: inline-block;
+box-sizing: border-box;
+line-height: 24px;
+}
+
+.heading-div {
+	line-height: 24px;
+	text-align: center;
+	
+}
+
+.heading-text {
+	min-height: 40px;
+background: url(right_bracket.png) right no-repeat;
+    background-size: auto;
+background-size: auto 100%;
+color:
+#000;
+display: inline-block;
+font-size: 1em;
+font-weight: normal;
+text-transform: uppercase;
+padding: 13px 20px;
+margin-bottom: 0;
+}
+
+.quote {
+	margin-bottom: 20px;
+}
+
+.panel-footer {
+	margin-left: 25px;
+	margin-top: 1.3em;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #70B657;
+}
