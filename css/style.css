@@ -853,9 +853,21 @@ iframe {
 
 
 
+.logo2 {
+  width: 300px;
+  height: auto;
+  padding-bottom: 10px;
+  padding-top: 5px;
 
+}
 
+nav ul {
+  padding-top: 12px;
+}
 
+nav .icon {
+  padding-top: 10px;
+}
 
 
 
