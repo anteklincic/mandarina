@@ -95,7 +95,7 @@ require_once("sendmail.php");
 
 
 	<div class="col-md-12 col-lg-6 px-0 pl-lg-2 pl-xl-2 pt-4 pt-xl-0 pt-lg-0">
-		<a href="/sxs/zforce550ex/index.php"><img src="img2.png" class="bg1 img-fluid" alt="ccs_logo" /></a>
+		<a href="/sxs/zforce550ex/index.php"><img src="img2.png" class="img-fluid" alt="ccs_logo" /></a>
 	</div>
 </div>
 

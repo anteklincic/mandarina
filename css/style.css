@@ -200,7 +200,11 @@ nav ul {
 }
 
 #carouselExampleIndicators {
-  z-index: -1;
+  z-index: 1;
+}
+
+nav ul {
+  z-index: 3;
 }
 /* OSTATAK */
 
