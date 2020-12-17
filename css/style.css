@@ -845,6 +845,7 @@ iframe {
   width: 100%;
   padding-bottom: 56.25%;
   height: 0;
+  cursor: pointer;
 }
 
 /* padding-bottom: 56.25%; */
@@ -860,6 +861,7 @@ iframe {
 
 #my-video {
   z-index: 2;
+  cursor: pointer;
 }
 
 .videoWrapper, .inner {
