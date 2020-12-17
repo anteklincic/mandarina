@@ -174,12 +174,8 @@ require_once("sendmail.php");
 <script>
 
 $(document).ready(function(){
-    $("#my-video").on('click', function () {
+    $("#my-video").on('click touchstart', function () {
 		window.location = "/atv/goes450/index.php";   
-    });
-
-	$("#my-video").on('touchstart', function () {
-        window.location = "/atv/goes450/index.php";    
     });
 });
 
