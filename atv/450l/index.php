@@ -1,6 +1,6 @@
 <?php
-$title = "CFMOTO CFORCE 520L";
-$description = "The CFORCE 520 is equipped with a most updated CFMOTO mid-displacement engine, a 495cc engine. This 34HP engine is an industry leading engine with liquid cooled, single -overhead-cam and fed by a 40mm Bosch Throttle Body. Featured with optional EPS, choice of single and double seat, a pure CFMOTO family design DNA.";
+$title = "CFMOTO CFORCE 450L";
+$description = "In comparison with its counterparts, the CFORCE 450’s look shows out to be more compact and solid  while still maintaining the CFMOTO CFORCE family DNA.";
 require_once("../../header.php");
 require_once("../../navigation.php"); 
 require_once("../../slider.php");
