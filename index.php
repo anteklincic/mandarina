@@ -73,19 +73,20 @@ require_once("sendmail.php");
 
 
 <div class="row mt-4">
-	<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
-		<div class="videoWrapper" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
+<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
+		<!-- <div class="videoWrapper" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
+			<div class="insideWrapper"> -->
 
-			<video autoplay fluid loop muted id="my-video" class="video-js"  preload="auto"
-			data-setup='{"fluid": true}'>
-				<source src="goes.mp4" type="video/mp4" />
-				<p class="vjs-no-js">
-					To view this video please enable JavaScript, and consider upgrading to a
-					web browser that
-					<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-				</p>
-			</video>
-		</div>
+				<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
+					data-setup='{"fluid": true}' onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
+					<source src="goes.mp4" type="video/mp4" />
+					<p class="vjs-no-js">
+						To view this video please enable JavaScript, and consider upgrading to a
+						web browser that
+						<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+					</p>
+				</video>
+
 	</div>
 
 	<div class="col-md-12 col-lg-6 px-0 pl-lg-2 pl-xl-2 pt-4 pt-xl-0 pt-lg-0">
@@ -166,10 +167,10 @@ require_once("sendmail.php");
 
 
 <script>
-videojs('my-video').ready(function() {
-	console.log("fa");
-    this.play();
-});
+	videojs('my-video').ready(function () {
+		console.log("fa");
+		this.play();
+	});
 
 	$(document).bind('keyup', function (e) {
 		if (e.which == 39) {

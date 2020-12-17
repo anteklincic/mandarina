@@ -835,21 +835,21 @@ iframe {
   margin-top: 100px;
 }
 
-/* Make the youtube video responsive */
-.iframe-container{
+/* .videoWrapper{
   position: relative;
   width: 100%;
   padding-bottom: 56.25%;
   height: 0;
 }
-.iframe-container iframe{
+.insideWrapper {
   position: absolute;
   top:0;
   left: 0;
-  width: 100%;
+  width: 50%;
   height: 100%;
 }
 
+ */
 
 
 
