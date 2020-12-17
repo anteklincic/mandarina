@@ -73,7 +73,7 @@ require_once("sendmail.php");
 
 
 <div class="row mt-4">
-<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
+<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3 goes-div">
 		<!-- <div class="videoWrapper" onclick="location.href='/atv/goes450/index.php';" style="cursor:pointer;">
 			<div class="insideWrapper"> -->
 
@@ -167,6 +167,8 @@ require_once("sendmail.php");
 
 
 <script>
+	
+
 	videojs('my-video').ready(function () {
 		console.log("fa");
 		this.play();
@@ -178,6 +180,16 @@ require_once("sendmail.php");
 		} else if (e.which == 37) {
 			$('.carousel').carousel('prev');
 		}
+	});
+
+	$('#goes-div').on('click touchstart', function() {
+		window.open("https://www.youraddress.com","_self");
+		console.log("LOL");
+	});
+
+	$('.my-video').on('click touchstart', function() {
+		window.open("https://www.youraddress.com","_self");
+		console.log("LOL");
 	});
 
 	// 	function changeSliderImage(x) {

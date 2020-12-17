@@ -1,6 +1,6 @@
 <nav>
       <div class="logo">
-      <a href="/"><img src="/logo.svg" class="logo2" alt=""></a>
+      <a href="/"><img src="/logo.svg" class="img-responsive logo2" alt=""></a>
                
             <!-- <a href="/" id="brand">MandarinaMoto <br>ATV & SxS prodaja</div> -->
       </div>
