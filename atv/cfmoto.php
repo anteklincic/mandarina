@@ -13,7 +13,7 @@ require_once("../navigation.php");
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
 				<h1 class="slider-heading"><strong>CFORCE 850XC</strong></h1>
-				<a href="/sxs/zforce1000sport/index.php"><button type="button"
+				<a href="/atv/cfmoto-cforce-850XC/index.php/index.php"><button type="button"
 						class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</button></a>
 			</div>
 		</div>
