@@ -23,13 +23,15 @@ require_once("../navigation.php");
 
 
 <div class="container">
+
 	<img src="cfmoto.png" alt="" id="cfmoto">
+	<p id="pdv">PDV(25%) je uključen u cijenu svih vozila</p>
 	<div class="row">
 
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="450s/index.php"><img src="1.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="cfmoto-cforce-450S/index.php"><img src="1.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450S</div>
 				<div class="panel-footer ">40 000 kn</div>
@@ -38,7 +40,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="450l/index.php"><img src="2.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="cfmoto-cforce-450L/index.php"><img src="2.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450L</div>
 				<div class="panel-footer">44 000 kn</div>
@@ -48,7 +50,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="520s/index.php"><img src="3.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="cfmoto-cforce-520S/index.php"><img src="3.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520S</div>
 				<div class="panel-footer">44 000 kn</div>
@@ -58,7 +60,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="520l/index.php"><img src="4.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="cfmoto-cforce-520L/index.php"><img src="4.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520L</div>
 				<div class="panel-footer">48 000 kn</div>
@@ -69,7 +71,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="600stouring/index.php"><img src="5.jpg" class="img-responsive" style="width:100%"
+					<a href="cfmoto-cforce-600S-touring/index.php"><img src="5.jpg" class="img-responsive" style="width:100%"
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 600S TOURING</div>
@@ -80,7 +82,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="600ltouring/index.php"><img src="6.jpg" class="img-responsive" style="width:100%"
+					<a href="cfmoto-cforce-600L-touring/index.php"><img src="6.jpg" class="img-responsive" style="width:100%"
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 600L TOURING</div>
@@ -91,7 +93,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="850xc/index.php"><img src="7.jpg" class="img-responsive" style="width:100%"
+					<a href="cfmoto-cforce-850XC/index.php"><img src="7.jpg" class="img-responsive" style="width:100%"
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 850XC</div>
@@ -102,7 +104,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="1000/index.php"><img src="8.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="cfmoto-cforce-1000EPS/index.php"><img src="8.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 1000</div>
 				<div class="panel-footer">80 000 kn</div>

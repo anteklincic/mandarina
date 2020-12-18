@@ -9,7 +9,7 @@
       </label>
       <input type="checkbox" id="btn">
       <ul>
-            <li><a href="/">HOME</a></li>
+            <li><a href="/">POČETNA</a></li>
             <li>
                   <label for="btn-1" class="show">ATV +</label>
                   <a href="#">ATV</a>

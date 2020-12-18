@@ -18,6 +18,14 @@ padding: 0;
   text-decoration: none;
 }
 
+#pdv {
+  font-family: arial;
+  font-size: 1em;
+  margin-top: 20px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
 body{
   background: white; /* #f2f2f2 OVA JE DOBRA ALI TREBA ONDA MINJAT SLIKE */
 }
