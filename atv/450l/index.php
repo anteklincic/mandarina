@@ -1,6 +1,6 @@
 <?php
 $title = "CFMOTO CFORCE 450L";
-$description = "In comparison with its counterparts, the CFORCE 450’s look shows out to be more compact and solid  while still maintaining the CFMOTO CFORCE family DNA.";
+$description = "Kompaktno, čvrsto i sigurno vozilo CFORCE 450S koje u sebi nosi čistokrvni DNK CFMOTO CFORCE porodice. Pouzdan terenac za rad, ali i za rekreaciju, nudi nenadmašni komfor za vozača i njegovog suvozača. Primjeren je za iskusne, ali i za manje iskusne ovisnike o adrenalinu.";
 require_once("../../header.php");
 require_once("../../navigation.php"); 
 require_once("../../slider.php");

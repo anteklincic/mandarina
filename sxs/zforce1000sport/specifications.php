@@ -1,7 +1,7 @@
 <div class="container-fluid no-padding">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="text-center">SPECIFICATIONS</h2>
+      <h2 class="text-center">SPECIFIKACIJE</h2>
     </div>
   </div>
 </div>
@@ -11,7 +11,7 @@
       <table class="table">
         <tbody>
           <tr>
-            <td class="left">ENGINE TYPE</td>
+            <td class="left">TIP MOTORA</td>
             <td>
               <p class="text-right">V-Twin cylinder, liquid-cooled 4-stroke, SOHC, 8-Valve, T1b</p>
             </td>
@@ -23,31 +23,37 @@
             </td>
           </tr>
           <tr>
-            <td class="left">DISPLACEMENT</td>
+            <td class="left">OBUJAM MOTORA</td>
             <td>
               <p class="text-right">962,2 cc</p>
             </td>
           </tr>
           <tr>
-            <td class="left">POWER</td>
+            <td class="left">SNAGA</td>
             <td>
               <p class="text-right">77 HP</p>
             </td>
           </tr>
           <tr>
-            <td class="left">BRAKE</td>
+            <td class="left">HOMOLOGACIJA</td>
+            <td>
+              <p class="text-right">T1b</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="left">KOČNICE</td>
             <td>
               <p class="text-right">CBS + Parking Brake</p>
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM TORQUE</td>
+            <td class="left">MAX. ZAKRETNI MOMENT</td>
             <td>
               <p class="text-right">77/6750 N•m/rpm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">FUEL CAPACITY</td>
+            <td class="left">ZAPREMNINA REZERVOARA</td>
             <td>
               <p class="text-right">36,5</p>
             </td>
@@ -65,43 +71,43 @@
             </td>
           </tr>
           <tr>
-            <td class="left">DIMENSION LxWxH</td>
+            <td class="left">DIMENZIJE DxŠxV</td>
             <td>
               <p class="text-right">2990 x 1565 x 1820 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">WHEELBASE</td>
+            <td class="left">OSOVINSKI RAZMAK KOTAČA</td>
             <td>
               <p class="text-right">2285 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">GROUND CLEARANCE</td>
+            <td class="left">VISINA DO PODVOZJA</td>
             <td>
               <p class="text-right">310 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SUSPENSION FRONT</td>
+            <td class="left">PREDNJI OVJES</td>
             <td>
               <p class="text-right">Double A-arm Independent suspension</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SUSPENSION REAR</td>
+            <td class="left">STRAŽNJI OVJES</td>
             <td>
               <p class="text-right">Multi-Link Independent Suspension</p>
             </td>
           </tr>
           <tr>
-            <td class="left">TYRES FRONT</td>
+            <td class="left">PREDNJE GUME</td>
             <td>
               <p class="text-right">27x9-14</p>
             </td>
           </tr>
           <tr>
-            <td class="left">TYRES REAR</td>
+            <td class="left">STRAŽNJE GUME</td>
             <td>
               <p class="text-right">27x11-14</p>
             </td>
@@ -113,13 +119,14 @@
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM POWER</td>
+            <td class="left"></td>
+            <td></td>
             <td>
               <p class="text-right">57.5/7200 kW/rpm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">COLOR</td>
+            <td class="left">BOJA</td>
             <td>
               <p class="text-right">Intense Red, Ghost Grey, Silver</p>
             </td>

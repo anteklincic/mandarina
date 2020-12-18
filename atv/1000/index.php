@@ -1,8 +1,6 @@
 <?php
 $title = "CFMOTO CFORCE 1000";
-$description = "CFORCE 1000, more power than any other members in CFMOTO ATV family deploys a purpose built 
-liquid-cooled engine, a great combination of performance, functionality and aesthetics. 
-CFMOTO is always progressive to push the limits further higher to give you unrivalled riding experience. ";
+$description = "Vozilo za prave ljubitelje uzbudljive avanture! Impozantne tehničke karakteristike ovog modela sada su ojačane nevjerojatnom automatskom blokadom zadnjeg diferencijala! Sjajna kombinacija performansi, funkcionalnosti i estetike.";
 require_once("../../header.php");
 require_once("../../navigation.php"); 
 require_once("../../slider.php");

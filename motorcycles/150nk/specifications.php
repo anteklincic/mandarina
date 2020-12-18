@@ -2,7 +2,7 @@
 <div class="container-fluid no-padding">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="text-center">SPECIFICATIONS</h2>
+      <h2 class="text-center">SPECIFIKACIJE</h2>
     </div>
   </div>
 </div>
@@ -12,7 +12,7 @@
       <table class="table">
         <tbody>
 <tr>
-            <td class="left">ENGINE TYPE</td>
+            <td class="left">TIP MOTORA</td>
             <td>
               <p class="text-right">Single-cylinder, Liquid-cooled, SOHC, BOSCH EFI</p>
             </td>
@@ -22,62 +22,62 @@
               <p class="text-right">142 kg</p>
             </td>
           </tr><tr>
-            <td class="left">DISPLACEMENT</td>
+            <td class="left">OBUJAM MOTORA</td>
             <td>
               <p class="text-right">150 cc</p>
             </td>
           </tr><tr>
-            <td class="left">POWER</td>
+            <td class="left">SNAGA</td>
             <td>
               <p class="text-right">11.8 HP</p>
             </td>
           </tr><tr>
-            <td class="left">BRAKE</td>
+            <td class="left">KOČNICE</td>
             <td>
               <p class="text-right">Hydraulic</p>
             </td>
           </tr><tr>
-            <td class="left">MAXIMUM TORQUE</td>
+            <td class="left">MAX. ZAKRETNI MOMENT</td>
             <td>
               <p class="text-right">10.7 N.m / 7000 rpm</p>
             </td>
           </tr><tr>
-            <td class="left">FUEL CAPACITY</td>
+            <td class="left">ZAPREMNINA REZERVOARA</td>
             <td>
               <p class="text-right">10 L</p>
             </td>
           </tr><tr>
-            <td class="left">DIMENSION LxWxH</td>
+            <td class="left">DIMENZIJE DxŠxV</td>
             <td>
               <p class="text-right">2060 x 770 x 1070 mm</p>
             </td>
           </tr><tr>
-            <td class="left">WHEELBASE</td>
+            <td class="left">OSOVINSKI RAZMAK KOTAČA</td>
             <td>
               <p class="text-right">1360 mm</p>
             </td>
           </tr><tr>
-            <td class="left">GROUND CLEARANCE</td>
+            <td class="left">VISINA DO PODVOZJA</td>
             <td>
               <p class="text-right">150 mm</p>
             </td>
           </tr><tr>
-            <td class="left">SUSPENSION FRONT</td>
+            <td class="left">PREDNJI OVJES</td>
             <td>
               <p class="text-right">Upside down</p>
             </td>
           </tr><tr>
-            <td class="left">SUSPENSION REAR</td>
+            <td class="left">STRAŽNJI OVJES</td>
             <td>
               <p class="text-right">Mid positioned, Single</p>
             </td>
           </tr><tr>
-            <td class="left">TYRES FRONT</td>
+            <td class="left">PREDNJE GUME</td>
             <td>
               <p class="text-right">Cheng Shin, 100/80 R17</p>
             </td>
           </tr><tr>
-            <td class="left">TYRES REAR</td>
+            <td class="left">STRAŽNJE GUME</td>
             <td>
               <p class="text-right">Cheng Shin, 130/70 R17</p>
             </td>
@@ -87,7 +87,8 @@
               <p class="text-right">100 km/h</p>
             </td>
           </tr><tr>
-            <td class="left">MAXIMUM POWER</td>
+            <td class="left"></td>
+            <td></td>
             <td>
               <p class="text-right">8.8kW / 8500 rpm (11.8hp/8500 rpm)</p>
             </td>

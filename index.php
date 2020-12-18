@@ -22,7 +22,7 @@ require_once("sendmail.php");
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
 				<a href="/sxs/zforce1000sport/index.php"
-					class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</a>
+					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -31,7 +31,7 @@ require_once("sendmail.php");
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
 				<a href="/atv/600ltouring/index.php"
-					class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</a>
+					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -39,7 +39,7 @@ require_once("sendmail.php");
 				<img class="d-block w-100" src="/images/bg3.png" alt="First slide" id="slide3">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/1000/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</a>
+				<a href="/atv/1000/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -48,7 +48,7 @@ require_once("sendmail.php");
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
 				<a href="/motorcycles/650nk/index.php"
-					class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</a>
+					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -56,7 +56,7 @@ require_once("sendmail.php");
 				<img class="d-block w-100" src="/images/bg5.jpg" alt="First slide" id="slide5">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/850xc/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</a>
+				<a href="/atv/850xc/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 
@@ -111,7 +111,7 @@ require_once("sendmail.php");
 
 <div class="row quote mt-5 mb-3" id="contactus">
 	<div class="col">
-		<h2 class="text-center heading-text">CONTACT US</h2>
+		<h2 class="text-center heading-text">KONTAKT</h2>
 
 	</div>
 </div>
@@ -119,45 +119,44 @@ require_once("sendmail.php");
 
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 offset-lg-2 col-xl-8 offset-xl-2">
 	<div class="messages">
-		<?= $alertDiv ?>
+	<?= $alertDiv ?>
 	</div>
-	<form method="post">
+	<form action="" method="post">
 		<div class="form-group required">
-			<label for="name" class="font-weight-bold control-label">Your name</label>
-			<input type="text" name="name" class="form-control" id="name" placeholder="Please enter your name" required>
+			<label for="name" class="font-weight-bold control-label">Vaše ime</label>
+			<input type="text" name="name" class="form-control" id="name" required>
 		</div>
 
 		<div class="form-group required">
 			<label for="email" class="font-weight-bold control-label">Email</label>
-			<input type="email" name="email" class="form-control" id="email" placeholder="Please enter your email"
+			<input type="email" name="email" class="form-control" id="email"
 				required>
 		</div>
 
 		<div class="form-group">
-			<label for="phone" class="font-weight-bold control-label">Phone</label>
-			<input type="text" name="phone" class="form-control" id="phone" placeholder="Please enter your phone">
+			<label for="phone" class="font-weight-bold control-label">Mobitel</label>
+			<input type="text" name="phone" class="form-control" id="phone" 
 		</div>
 
 		<div class="form-group">
-			<label for="country" class="font-weight-bold control-label">Country</label>
-			<input type="text" name="country" class="form-control" id="country" placeholder="Please enter your country">
+			<label for="country" class="font-weight-bold control-label">Država</label>
+			<input type="text" name="country" class="form-control" id="country">
 		</div>
 
 		<div class="form-group">
-			<label for="inquiryModel" class="font-weight-bold control-label">Inquiry model</label>
-			<input type="text" name="model" class="form-control" id="inquiryModel"
-				placeholder="Please enter your inquiry model">
+			<label for="inquiryModel" class="font-weight-bold control-label">Model vezan za upit</label>
+			<input type="text" name="model" class="form-control" id="inquiryModel">
 		</div>
 
 		<div class="form-group required">
-			<label for="message" class="font-weight-bold control-label">Message</label>
-			<textarea class="form-control" name="message" id="message" placeholder="Please enter your message" required
-				rows="6"></textarea>
+			<label for="message" class="font-weight-bold control-label">Vaša poruka</label>
+			<textarea class="form-control" name="message" id="message" required
+				rows="6&quot;"></textarea>
 		</div>
 
 
 
-		<button type="submit" name="submit" class="btn btn-block submit-button">Submit</button>
+		<button type="submit" name="submit" class="btn btn-block submit-button">Pošalji</button>
 	</form>
 </div>
 

@@ -1,8 +1,8 @@
 <?php
 $title = "CFMOTO CFORCE 600S Touring";
-$description = "Inside our hearts lies an intrinsic yearning for freedom, a desire to pursue the rugged beyond.
- Maybe the best thing about hunting, fishing, camping or even working is just getting there, especially when you saddle on an all-new CFORCE. The CFORCE 625 Touring highlights the full lineup of versatile ATVs. With next-generation chassis and styling, this exciting machine is getting plenty of attention. 
- The all-new 625 Touring comes in either a one or two-up version.";
+$description = Najtraženiji model ATV-a, ne samo u Hrvatskoj, već i na glovbalnoj razini! Kombinacija snage i veličine, uz najsavremeniji dizajn i ozbiljne tehničke mogućnosti, impresionirt će i najzahtjevnije vozače. Za ovog tereca ne postoje prepreke. Zavrtite svijet oko sebe!
+
+
 require_once("../../header.php");
 require_once("../../navigation.php"); 
 require_once("../../slider.php");

@@ -4,7 +4,9 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>ATV & SxS prodaja</title>
+	<title>MandarinaMoto - prodaja ATV i Side by Side vozila</title>
+	<meta name="description" content="	MandarinaMoto je tvrtka s dugogodišnjim iskustvo u prodaji ATV i buggy (side by side) vozila, te prodajom motocikala. U svojoj ponudi imamo veliki broj vozila marke CFMoto i Goes. Vozila dostavljamo na području cijele Hrvatske.">
+
 	<link href="https://vjs.zencdn.net/7.10.2/video-js.css" rel="stylesheet" />
 	<link rel="shortcut icon" href="/images/favicon.ico" />
 	<link rel="stylesheet" href="/flexslider2/flexslider.css" type="text/css">

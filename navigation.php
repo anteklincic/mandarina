@@ -28,7 +28,7 @@
                         <li><a href="/sxs/goes.php">GOES</a></li>
                   </ul>
             </li>
-            <li><a href="/motorcycles/">MOTORCYCLES</a></li>
-            <li><a href="/#contactus">CONTACT US</a></li>
+            <li><a href="/motorcycles/">MOTOCIKLI</a></li>
+            <li><a href="/#contactus">KONTAKT</a></li>
       </ul>
 </nav>

@@ -13,7 +13,7 @@
            <tr>
              <td class="left">Engine</td>
              <td>
-               <p class="text-right">4-Stroke Engine, SOHC, T3b</p>
+               <p class="text-right">4-Stroke Engine, SOHC</p>
              </td>
            </tr>
            <tr>
@@ -28,6 +28,12 @@
                <p class="text-right">27 HP @ 7500 rpm</p>
              </td>
            </tr>
+           <tr>
+            <td class="left">Homologation</td>
+            <td>
+              <p class="text-right">T3b</p>
+            </td>
+          </tr>
            <tr>
              <td class="left">Torque</td>
              <td>

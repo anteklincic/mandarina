@@ -13,139 +13,121 @@
           <tr>
             <td class="left">TIP MOTORA</td>
             <td>
-              <p class="text-right">V double cylinder, 4 Stroke, 8 Valve, EFI, SOHC</p>
-            </td>
-          </tr>
-          <tr>
-            <td class="left">WEIGHT</td>
-            <td>
-              <p class="text-right">690 Kg</p>
+              <p class="text-right">Single-cylinder, 4-valve, SOHC, EFI, 4- stroke</p>
             </td>
           </tr>
           <tr>
             <td class="left">OBUJAM MOTORA</td>
             <td>
-              <p class="text-right">962,6 cc</p>
+              <p class="text-right">400cc</p>
             </td>
           </tr>
           <tr>
             <td class="left">SNAGA</td>
             <td>
-              <p class="text-right">78 HP</p>
+              <p class="text-right">30 HP</p>
             </td>
           </tr>
           <tr>
             <td class="left">KOČNICE</td>
             <td>
-              <p class="text-right">Four wheel side brake</p>
+              <p class="text-right">Hydraulic</p>
             </td>
           </tr>
           <tr>
             <td class="left">MAX. ZAKRETNI MOMENT</td>
             <td>
-              <p class="text-right">79/6500</p>
+              <p class="text-right">33/6000 rpm</p>
             </td>
           </tr>
           <tr>
             <td class="left">ZAPREMNINA REZERVOARA</td>
             <td>
-              <p class="text-right">40 L</p>
+              <p class="text-right">15 L</p>
             </td>
           </tr>
           <tr>
             <td class="left">TRANSMISSION</td>
             <td>
-              <p class="text-right">Automat CVT</p>
+              <p class="text-right">automat CVT</p>
             </td>
           </tr>
           <tr>
             <td class="left">RADIATOR SYSTEM</td>
             <td>
-              <p class="text-right">Water cooling</p>
+              <p class="text-right">Liquid Cooled</p>
             </td>
           </tr>
           <tr>
             <td class="left">4X4 SUSTAV</td>
             <td>
-              <p class="text-right">4×2 Rear wheel drive ＋ 4×4 all wheel drive</p>
+              <p class="text-right">Switchable 2WD/4WD</p>
             </td>
           </tr>
           <tr>
             <td class="left">DIMENZIJE DxŠxV</td>
             <td>
-              <p class="text-right">2945x1615x1850 (mm)</p>
+              <p class="text-right">2100x1100x1150 (mm)</p>
             </td>
           </tr>
           <tr>
             <td class="left">OSOVINSKI RAZMAK KOTAČA</td>
             <td>
-              <p class="text-right">2050 mm</p>
+              <p class="text-right">1260 mm</p>
             </td>
           </tr>
           <tr>
             <td class="left">VISINA DO PODVOZJA</td>
             <td>
-              <p class="text-right">293 mm</p>
+              <p class="text-right">240 (mm)</p>
             </td>
           </tr>
           <tr>
             <td class="left">PREDNJI OVJES</td>
             <td>
-              <p class="text-right">Double a-arm independent suspension</p>
+              <p class="text-right">Double A-arm, Independent Suspension</p>
             </td>
           </tr>
           <tr>
             <td class="left">STRAŽNJI OVJES</td>
             <td>
-              <p class="text-right">Double a-arm independent suspension</p>
+              <p class="text-right">Double A-arm, Independent Suspension</p>
             </td>
           </tr>
           <tr>
             <td class="left">PREDNJE GUME</td>
             <td>
-              <p class="text-right">27×9.00R14</p>
+              <p class="text-right">25x8-12</p>
             </td>
           </tr>
           <tr>
             <td class="left">STRAŽNJE GUME</td>
             <td>
-              <p class="text-right">27×11.00R14</p>
+              <p class="text-right">25x10-12</p>
             </td>
           </tr>
           <tr>
             <td class="left">UKLJUČENA OPREMA</td>
             <td>
-              <p class="text-right">Safety Belt, Rooftop, Winch, Al Rims, Hitch Ball</p>
+              <p class="text-right">Winch, Al rims, CVTech, Skidplate</p>
             </td>
           </tr>
           <tr>
             <td class="left">AMORTIZER</td>
             <td>
-              <p class="text-right">Oil</p>
+              <p class="text-right">Spiral spring oil shock absorber</p>
             </td>
           </tr>
           <tr>
             <td class="left">EPS</td>
             <td>
-              <p class="text-right">YES</p>
-            </td>
-          </tr>
-          <tr>
-            <td class="left">HOMOLOGACIJA</td>
-            <td>
-              <p class="text-right">T1b</p>
+              <p class="text-right">optional</p>
             </td>
           </tr>
           <tr>
             <td class="left">BOJA</td>
             <td>
-              <p class="text-right">Athens Blue, Matt Titanium Grey and True Timber</p>
-            </td>
-          </tr>
-          <tr>
-            <td class="left">FUEL SUPPLY</td>
-            <td>
-              <p class="text-right">EFI</p>
+              <p class="text-right">Navedena cijena odnosi se za CRNU i PLAVU boju. Za NARANČASTU i KAMUFLAŽU cijena je dodatnih 1000 kn.</p>
             </td>
           </tr>
         </tbody>

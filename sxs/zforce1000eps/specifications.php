@@ -1,7 +1,7 @@
 <div class="container-fluid no-padding">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="text-center">SPECIFICATIONS</h2>
+      <h2 class="text-center">SPECIFIKACIJE</h2>
     </div>
   </div>
 </div>
@@ -11,37 +11,43 @@
       <table class="table">
         <tbody>
           <tr>
-            <td class="left">ENGINE TYPE</td>
+            <td class="left">TIP MOTORA</td>
             <td>
-              <p class="text-right">V-twin, 4-stroke, SOHC, 8-valve T1b</p>
+              <p class="text-right">V-twin, 4-stroke, SOHC, 8-valve</p>
             </td>
           </tr>
           <tr>
-            <td class="left">DISPLACEMENT</td>
+            <td class="left">OBUJAM MOTORA</td>
             <td>
               <p class="text-right">962.6cc</p>
             </td>
           </tr>
           <tr>
-            <td class="left">POWER</td>
+            <td class="left">SNAGA</td>
             <td>
               <p class="text-right">85 HP</p>
             </td>
           </tr>
           <tr>
-            <td class="left">BRAKE</td>
+            <td class="left">HOMOLOGACIJA</td>
+            <td>
+              <p class="text-right">T1b</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="left">KOČNICE</td>
             <td>
               <p class="text-right">Hydraulic</p>
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM TORQUE</td>
+            <td class="left">MAX. ZAKRETNI MOMENT</td>
             <td>
               <p class="text-right">82 N.m/6200 rpm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">FUEL CAPACITY</td>
+            <td class="left">ZAPREMNINA REZERVOARA</td>
             <td>
               <p class="text-right">27 L</p>
             </td>
@@ -59,61 +65,61 @@
             </td>
           </tr>
           <tr>
-            <td class="left">4X4 SYSTEM</td>
+            <td class="left">4X4 SUSTAV</td>
             <td>
               <p class="text-right">Switchable 2WD/4WD</p>
             </td>
           </tr>
           <tr>
-            <td class="left">DIMENSION LxWxH</td>
+            <td class="left">DIMENZIJE DxŠxV</td>
             <td>
               <p class="text-right">2870x1510x1845 (mm)</p>
             </td>
           </tr>
           <tr>
-            <td class="left">WHEELBASE</td>
+            <td class="left">OSOVINSKI RAZMAK KOTAČA</td>
             <td>
               <p class="text-right">2040 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">GROUND CLEARANCE</td>
+            <td class="left">VISINA DO PODVOZJA</td>
             <td>
               <p class="text-right">300 (mm)</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SUSPENSION FRONT</td>
+            <td class="left">PREDNJI OVJES</td>
             <td>
               <p class="text-right">Double A-arm, Independent Suspension</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SUSPENSION REAR</td>
+            <td class="left">STRAŽNJI OVJES</td>
             <td>
               <p class="text-right">Double A-arm, Independent Suspension</p>
             </td>
           </tr>
           <tr>
-            <td class="left">TYRES FRONT</td>
+            <td class="left">PREDNJE GUME</td>
             <td>
               <p class="text-right">27x9-14</p>
             </td>
           </tr>
           <tr>
-            <td class="left">TYRES REAR</td>
+            <td class="left">STRAŽNJE GUME</td>
             <td>
               <p class="text-right">27x11-14</p>
             </td>
           </tr>
           <tr>
-            <td class="left">ACCESSORIES INCLUDED</td>
+            <td class="left">UKLJUČENA OPREMA</td>
             <td>
               <p class="text-right">Winch, CVTech, Doors, EPS, Window, Roof</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SHOCK ABSORBER</td>
+            <td class="left">AMORTIZER</td>
             <td>
               <p class="text-right">Gas Spring, Spiral spring oil shock absorber</p>
             </td>
@@ -125,25 +131,18 @@
             </td>
           </tr>
           <tr>
-            <td class="left">FRONT BRAKE</td>
+            <td class="left">PREDNJE KOČNICE</td>
             <td>
               <p class="text-right">Hydraulic</p>
             </td>
           </tr>
           <tr>
-            <td class="left">REAR BRAKE</td>
+            <td class="left">STRAŽNJE KOČNICE</td>
             <td>
               <p class="text-right">Double arm, independent suspension</p>
             </td>
           </tr>
-          <tr>
-            <td class="left">HOMOLOGATION</td>
-            <td>
-              <p class="text-right">T1B</p>
-            </td>
-          </tr>
-          <tr>
-            <td class="left">COLOR</td>
+            <td class="left">BOJA</td>
             <td>
               <p class="text-right">Ferrari Red, Pearl Black</p>
             </td>

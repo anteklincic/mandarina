@@ -1,7 +1,7 @@
 <div class="container-fluid no-padding">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="text-center">SPECIFICATIONS</h2>
+      <h2 class="text-center">SPECIFIKACIJE</h2>
     </div>
   </div>
 </div>
@@ -11,7 +11,7 @@
       <table class="table">
         <tbody>
           <tr>
-            <td class="left">ENGINE TYPE</td>
+            <td class="left">TIP MOTORA</td>
             <td>
               <p class="text-right">Single cylinder,4-stroke,Liquid cooled,4-value,DOHC,Balance shaf</p>
             </td>
@@ -23,61 +23,62 @@
             </td>
           </tr>
           <tr>
-            <td class="left">DISPLACEMENT</td>
+            <td class="left">OBUJAM MOTORA</td>
             <td>
               <p class="text-right">300 cc</p>
             </td>
           </tr>
           <tr>
-            <td class="left">POWER</td>
+            <td class="left">SNAGA</td>
             <td>
               <p class="text-right">33.5 HP</p>
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM TORQUE</td>
+            <td class="left">MAX. ZAKRETNI MOMENT</td>
             <td>
               <p class="text-right">20.5 N.m / 8800 rpm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">FUEL CAPACITY</td>
+            <td class="left">ZAPREMNINA REZERVOARA</td>
             <td>
               <p class="text-right">12.5L</p>
             </td>
           </tr>
           <tr>
-            <td class="left">DIMENSION LxWxH</td>
+            <td class="left">DIMENZIJE DxŠxV</td>
             <td>
               <p class="text-right">1990 x 780 x 1070 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">WHEELBASE</td>
+            <td class="left">OSOVINSKI RAZMAK KOTAČA</td>
             <td>
               <p class="text-right">1360 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">GROUND CLEARANCE</td>
+            <td class="left">VISINA DO PODVOZJA</td>
             <td>
               <p class="text-right">150 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SUSPENSION FRONT</td>
+            <td class="left">PREDNJI OVJES</td>
             <td>
               <p class="text-right">Retractable type</p>
             </td>
           </tr>
           <tr>
-            <td class="left">SUSPENSION REAR</td>
+            <td class="left">STRAŽNJI OVJES</td>
             <td>
               <p class="text-right">Cantilever type</p>
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM POWER</td>
+            <td class="left"></td>
+            <td></td>
             <td>
               <p class="text-right">25 kW / 7200 rpm</p>
             </td>

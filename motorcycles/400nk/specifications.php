@@ -1,7 +1,7 @@
 <div class="container-fluid no-padding">
   <div class="row">
     <div class="col-md-12">
-      <h2 class="text-center">SPECIFICATIONS</h2>
+      <h2 class="text-center">SPECIFIKACIJE</h2>
     </div>
   </div>
 </div>
@@ -11,7 +11,7 @@
       <table class="table">
         <tbody>
           <tr>
-            <td class="left">ENGINE TYPE</td>
+            <td class="left">TIP MOTORA</td>
             <td>
               <p class="text-right">2-cylinder inline, 8-valve, Liquid cooled,DOHC, BOSCH EFI</p>
             </td>
@@ -23,43 +23,43 @@
             </td>
           </tr>
           <tr>
-            <td class="left">DISPLACEMENT</td>
+            <td class="left">OBUJAM MOTORA</td>
             <td>
               <p class="text-right">400 cc</p>
             </td>
           </tr>
           <tr>
-            <td class="left">POWER</td>
+            <td class="left">SNAGA</td>
             <td>
               <p class="text-right">40.8 HP</p>
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM TORQUE</td>
+            <td class="left">MAX. ZAKRETNI MOMENT</td>
             <td>
               <p class="text-right">34.4 N.m / 7650 rpm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">FUEL CAPACITY</td>
+            <td class="left">ZAPREMNINA REZERVOARA</td>
             <td>
               <p class="text-right">17L</p>
             </td>
           </tr>
           <tr>
-            <td class="left">DIMENSION LxWxH</td>
+            <td class="left">DIMENZIJE DxŠxV</td>
             <td>
               <p class="text-right">2114 x 757 x 1100 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">WHEELBASE</td>
+            <td class="left">OSOVINSKI RAZMAK KOTAČA</td>
             <td>
               <p class="text-right">1415 mm</p>
             </td>
           </tr>
           <tr>
-            <td class="left">GROUND CLEARANCE</td>
+            <td class="left">VISINA DO PODVOZJA</td>
             <td>
               <p class="text-right">150 mm</p>
             </td>
@@ -71,7 +71,8 @@
             </td>
           </tr>
           <tr>
-            <td class="left">MAXIMUM POWER</td>
+            <td class="left"></td>
+            <td></td>
             <td>
               <p class="text-right">30.5 kW / 9500 rpm</p>
             </td>

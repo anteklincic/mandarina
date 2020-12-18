@@ -1,8 +1,6 @@
 <?php
 $title = "CFMOTO CFORCE 850XC";
-$description = "CFORCE 850XC features both outstanding performance and versatility. 
-Configured with powerful and responsive hardcore engine, it is sure to provide you with great 
-riding experience and also rich in accessories engineered to maximize the riding fun.";
+$description = "Istražite prirodu i izazovite sebe na vožnju koja ostavlja bez daha! Agresivne linije ovog ATV modela prate njegov agresivan karakter! Snažna konfiguracija motora, zajedno s bogatom opremom i izvanrednim performansama, učinit će vašu vožnju doživljajem za pamćenje.";
 require_once("../../header.php");
 require_once("../../navigation.php"); 
 require_once("../../slider.php");

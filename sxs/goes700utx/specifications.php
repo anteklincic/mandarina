@@ -13,13 +13,19 @@
            <tr>
              <td class="left">Engine</td>
              <td>
-               <p class="text-right">4-stroke, 4-valve SOHC single cylinder, T1b</p>
+               <p class="text-right">4-stroke, 4-valve SOHC single cylinder</p>
              </td>
            </tr>
            <tr>
              <td class="left">Gearbox</td>
              <td>
                <p class="text-right">Auto/ CVT L-H-N-R-P</p>
+             </td>
+           </tr>
+           <tr>
+             <td class="left">Homologation</td>
+             <td>
+               <p class="text-right">T1b</p>
              </td>
            </tr>
            <tr>

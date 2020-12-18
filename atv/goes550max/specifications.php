@@ -13,7 +13,7 @@
            <tr>
              <td class="left">Engine</td>
              <td>
-               <p class="text-right">4-Stroke Engine, SOHC, T3b</p>
+               <p class="text-right">4-Stroke Engine, SOHC, </p>
              </td>
            </tr>
            <tr>
