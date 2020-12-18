@@ -192,17 +192,6 @@ require_once("sendmail.php");
 	});
 
 
-	// $('#my-video').vclick(function(){
-	// 	window.location = "http://www.google.com/";    
-	// });
-
-	// $('#my-video').touchstart(function(){
-	// 	window.location = "http://www.google.com/";    
-	// });
-
-
-
-
 
 	videojs('my-video').ready(function () {
 		console.log("fa");

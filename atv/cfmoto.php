@@ -24,7 +24,7 @@ require_once("../navigation.php");
 
 <div class="container">
 
-	<img src="cfmoto.png" alt="" id="cfmoto">
+	<img src="/cfmoto.png" alt="" id="cfmoto">
 	<p id="pdv">PDV(25%) je uključen u cijenu svih vozila</p>
 	<div class="row">
 
