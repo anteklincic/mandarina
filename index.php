@@ -101,7 +101,7 @@ require_once("sendmail.php");
 
 <div class="row mt-4">
 	<div class="col-md-12 col-lg-6 px-0  pr-lg-3 pr-xl-3">
-		<a href="/atv/520s/index.php"><img src="img3.jpg" class="bg1 img-fluid" alt="inn_logo" /></a>
+		<a href="/atv/cfmoto-cforce-520S/index.php"><img src="img3.jpg" class="bg1 img-fluid" alt="inn_logo" /></a>
 	</div>
 	<div class="col-md-12 col-lg-6 px-0  pl-lg-2 pl-xl-2 pt-4 pt-xl-0 pt-lg-0">
 		<a href="/sxs/zforce1000eps/index.php"><img src="img4.png" class="bg1 img-fluid" alt="ccs_logo" /></a>
