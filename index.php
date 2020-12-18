@@ -39,7 +39,8 @@ require_once("sendmail.php");
 				<img class="d-block w-100" src="/images/bg3.png" alt="First slide" id="slide3">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/cfmoto-cforce-1000EPS/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
+				<a href="/atv/cfmoto-cforce-1000EPS/index.php"
+					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -56,7 +57,8 @@ require_once("sendmail.php");
 				<img class="d-block w-100" src="/images/bg5.jpg" alt="First slide" id="slide5">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/cfmoto-cforce-850XC/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
+				<a href="/atv/cfmoto-cforce-850XC/index.php"
+					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 
@@ -119,7 +121,7 @@ require_once("sendmail.php");
 
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-8 offset-lg-2 col-xl-8 offset-xl-2">
 	<div class="messages">
-	<?= $alertDiv ?>
+		<?= $alertDiv ?>
 	</div>
 	<form action="" method="post">
 		<div class="form-group required">
@@ -129,13 +131,12 @@ require_once("sendmail.php");
 
 		<div class="form-group required">
 			<label for="email" class="font-weight-bold control-label">Email</label>
-			<input type="email" name="email" class="form-control" id="email"
-				required>
+			<input type="email" name="email" class="form-control" id="email" required>
 		</div>
 
 		<div class="form-group">
 			<label for="phone" class="font-weight-bold control-label">Mobitel</label>
-			<input type="text" name="phone" class="form-control" id="phone" 
+			<input type="text" name="phone" class="form-control" id="phone">
 		</div>
 
 		<div class="form-group">
@@ -150,25 +151,22 @@ require_once("sendmail.php");
 
 		<div class="form-group required">
 			<label for="message" class="font-weight-bold control-label">Vaša poruka</label>
-			<textarea class="form-control" name="message" id="message" required
-				rows="6&quot;"></textarea>
+			<textarea class="form-control" name="message" id="message" required rows="6"></textarea>
 		</div>
-
-
-
 		<button type="submit" name="submit" class="btn btn-block submit-button">Pošalji</button>
 	</form>
 </div>
+
+
+<?php require_once("footer.php"); ?>
+
+<script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
 
 <script>
 	if (window.history.replaceState) {
 		window.history.replaceState(null, null, window.location.href);
 	}
 </script>
-<?php require_once("footer.php"); ?>
-
-<script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
-
 
 <script>
 	$(document).ready(function () {
