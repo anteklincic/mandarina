@@ -78,7 +78,7 @@ require_once("sendmail.php");
 		<div class="videoWrapper">
 			<div class="inner">
 
-				<video autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
+				<video disableRemotePlayback autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
 					data-setup='{"fluid": true}'>
 					<source src="goes.mp4" type="video/mp4" />
 					<p class="vjs-no-js">
