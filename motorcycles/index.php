@@ -18,7 +18,7 @@ require_once("../navigation.php");
 			<div class="carousel-caption custom-carousel-caption">
 				<h1 class="slider-heading"><strong>CFOMOTO 400GT</strong></h1>
 				<a href="/motorcycles/400gt/index.php"><button type="button"
-						class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</button></a>
+						class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</button></a>
 			</div>
 		</div>
 		<div class="carousel-item">
@@ -28,7 +28,7 @@ require_once("../navigation.php");
 			<div class="carousel-caption custom-carousel-caption">
 				<h1 class="slider-heading"><strong>CFMOTO 650GT</strong></h1>
 				<a href="/motorcycles/650gt/index.php"><button type="button"
-						class="btn btn-lg custom-button explore d-md-table mx-auto">EXPLORE</button></a>
+						class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</button></a>
 			</div>
 		</div>
 
