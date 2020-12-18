@@ -26,16 +26,16 @@ require_once("sendmail.php");
 			</div>
 		</div>
 		<div class="carousel-item">
-			<a href="/atv/600ltouring/index.php">
+			<a href="/atv/cfmoto-cforce-600L-touring/index.php">
 				<img class="d-block w-100" src="/images/bg2.jpg" alt="First slide" id="slide2">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/600ltouring/index.php"
+				<a href="/atv/cfmoto-cforce-600L-touring/index.php"
 					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<a href="/atv/1000/index.php">
+			<a href="/atv/cfmoto-cforce-1000/index.php">
 				<img class="d-block w-100" src="/images/bg3.png" alt="First slide" id="slide3">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
