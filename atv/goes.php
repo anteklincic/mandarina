@@ -22,7 +22,7 @@ require_once("../navigation.php");
 </div> -->
 
 <div class="container">
-	<img src="goes.jpg" alt="" id="goes">
+	<img src="/goes.jpg" alt="" id="goes">
 	<p id="pdv">PDV(25%) je uključen u cijenu svih vozila</p>
 	<div class="row">
 
