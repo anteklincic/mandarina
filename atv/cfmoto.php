@@ -8,7 +8,7 @@ require_once("../navigation.php");
 
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<a href="/atv/850xc/index.php">
+			<a href="/atv/cfmoto-cforce-850XC/index.php">
 				<img class="d-block w-100" src="/atv/images/bg1.jpg" alt="First slide" id="slide1">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">

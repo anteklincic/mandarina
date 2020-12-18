@@ -52,11 +52,11 @@ require_once("sendmail.php");
 			</div>
 		</div>
 		<div class="carousel-item">
-			<a href="/atv/850xc/index.php">
+			<a href="/atv/cfmoto-cforce-850XC/index.php">
 				<img class="d-block w-100" src="/images/bg5.jpg" alt="First slide" id="slide5">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/850xc/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
+				<a href="/atv/cfmoto-cforce-850XC/index.php" class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 
