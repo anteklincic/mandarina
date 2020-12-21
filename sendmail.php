@@ -35,7 +35,7 @@ if(isset($_POST['submit'])){
 
         $mail->setFrom('ante@klincic.com');
 
-        $mail->addAddress('ante.klincic@gmail.com'); //na ovu adresu dolazi
+        $mail->addAddress('atvprodaja@gmail.com'); //na ovu adresu dolazi
 
         $mail->isHTML(true);
         $mail->Subject = 'MandarinaMoto poruka sa stranice';
