@@ -97,7 +97,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 850XC</div>
-				<div class="panel-footer">xx xxx kn</div>
+				<div class="panel-footer">81 500 kn</div>
 			</div>
 		</div>
 
