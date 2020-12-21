@@ -97,7 +97,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 850XC</div>
-				<div class="panel-footer">81 500 kn</div>
+				<div class="panel-footer">-- --- kn</div>
 			</div>
 		</div>
 
@@ -107,7 +107,7 @@ require_once("../navigation.php");
 					<a href="/atv-quad-vozila/cfmoto/cforce-1000-eps/index.php"><img src="/atv-quad-vozila/cfmoto/images/8.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 1000</div>
-				<div class="panel-footer">80 000 kn</div>
+				<div class="panel-footer">81 500 kn</div>
 			</div>
 		</div>
 

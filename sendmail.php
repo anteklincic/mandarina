@@ -38,7 +38,7 @@ if(isset($_POST['submit'])){
         $mail->addAddress('ante.klincic@gmail.com'); //na ovu adresu dolazi
 
         $mail->isHTML(true);
-        $mail->Subject = '*Nova poruka sa stranice!*';
+        $mail->Subject = 'Nova poruka sa stranice!';
         $mail->Body = <<<EOT
         Ime pošiljatelja: $name <br>
         Email: $email<br>
