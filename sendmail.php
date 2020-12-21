@@ -38,7 +38,7 @@ if(isset($_POST['submit'])){
         $mail->addAddress('ante.klincic@gmail.com'); //na ovu adresu dolazi
 
         $mail->isHTML(true);
-        $mail->Subject = 'Nova poruka sa stranice!';
+        $mail->Subject = 'MandarinaMoto poruka sa stranice';
         $mail->Body = <<<EOT
         Ime pošiljatelja: $name <br>
         Email: $email<br>
@@ -58,7 +58,7 @@ if(isset($_POST['submit'])){
         EOT;
 
         $mail->send();
-        $alert = 'Contact form successfully submitted. Thank you, we will get back to you soon!';
+        $alert = 'Poruka je uspješno poslana! Hvala na Vašem upitu.';
         $alertType = 'alert-success';
         $alertDiv = <<<EOD
         <div class="alert $alertType alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
