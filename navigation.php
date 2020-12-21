@@ -15,8 +15,8 @@
                   <a href="#">ATV</a>
                   <input type="checkbox" id="btn-1">
                   <ul>
-                        <li><a href="/atv/cfmoto.php">CFMOTO</a></li>
-                        <li><a href="/atv/goes.php">GOES</a></li>
+                        <li><a href="/atv-quad-vozila/cfmoto.php">CFMOTO</a></li>
+                        <li><a href="/atv-quad-vozila/goes.php">GOES</a></li>
                   </ul>
             </li>
             <li>

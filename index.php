@@ -26,20 +26,20 @@ require_once("sendmail.php");
 			</div>
 		</div>
 		<div class="carousel-item">
-			<a href="/atv/cfmoto-cforce-600L-touring/index.php">
+			<a href="/atv-quad-vozila/cfmoto-cforce-600L-touring/index.php">
 				<img class="d-block w-100" src="/images/bg2.jpg" alt="First slide" id="slide2">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/cfmoto-cforce-600L-touring/index.php"
+				<a href="/atv-quad-vozila/cfmoto-cforce-600L-touring/index.php"
 					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<a href="/atv/cfmoto-cforce-1000EPS/index.php">
+			<a href="/atv-quad-vozila/cfmoto-cforce-1000EPS/index.php">
 				<img class="d-block w-100" src="/images/bg3.png" alt="First slide" id="slide3">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/cfmoto-cforce-1000EPS/index.php"
+				<a href="/atv-quad-vozila/cfmoto-cforce-1000EPS/index.php"
 					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
@@ -53,11 +53,11 @@ require_once("sendmail.php");
 			</div>
 		</div>
 		<div class="carousel-item">
-			<a href="/atv/cfmoto-cforce-850XC/index.php">
+			<a href="/atv-quad-vozila/cfmoto-cforce-850XC/index.php">
 				<img class="d-block w-100" src="/images/bg5.jpg" alt="First slide" id="slide5">
 			</a>
 			<div class="carousel-caption custom-carousel-caption">
-				<a href="/atv/cfmoto-cforce-850XC/index.php"
+				<a href="/atv-quad-vozila/cfmoto-cforce-850XC/index.php"
 					class="btn btn-lg custom-button explore d-md-table mx-auto">ISTRAŽI</a>
 			</div>
 		</div>
@@ -77,21 +77,18 @@ require_once("sendmail.php");
 <div class="row mt-4">
 
 	<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
-		<div class="videoWrapper">
-			<div class="inner">
+	
 
-				<video disableRemotePlayback autoplay vjs-fill loop muted id="my-video" class="video-js" preload="auto"
-					data-setup='{"fluid": true}'>
-					<source src="goes.mp4" type="video/mp4" />
+				<video disableRemotePlayback autoplay loop muted id="my-video" class="video-js" preload="auto"
+				data-setup='{"fluid": true}'>
+					<source src="goes2.mp4" type="video/mp4" />
 					<p class="vjs-no-js">
 						To view this video please enable JavaScript, and consider upgrading to a
 						web browser that
 						<a href="https://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
 					</p>
 				</video>
-			</div>
-
-		</div>
+	
 	</div>
 
 
@@ -103,7 +100,7 @@ require_once("sendmail.php");
 
 <div class="row mt-4">
 	<div class="col-md-12 col-lg-6 px-0  pr-lg-3 pr-xl-3">
-		<a href="/atv/cfmoto-cforce-520S/index.php"><img src="img3.jpg" class="bg1 img-fluid" alt="inn_logo" /></a>
+		<a href="/atv-quad-vozila/cfmoto-cforce-520S/index.php"><img src="img3.jpg" class="bg1 img-fluid" alt="inn_logo" /></a>
 	</div>
 	<div class="col-md-12 col-lg-6 px-0  pl-lg-2 pl-xl-2 pt-4 pt-xl-0 pt-lg-0">
 		<a href="/sxs/zforce1000eps/index.php"><img src="img4.png" class="bg1 img-fluid" alt="ccs_logo" /></a>
@@ -173,7 +170,7 @@ require_once("sendmail.php");
 		var touchmoved;
 		$("#my-video").on('touchend', function (e) {
 			if (touchmoved != true) {
-				window.location = "/atv/goes450/index.php";
+				window.location = "/atv-quad-vozila/goes450/index.php";
 			}
 		}).on('touchmove', function (e) {
 			touchmoved = true;
@@ -182,7 +179,7 @@ require_once("sendmail.php");
 		});
 
 		$("#my-video").on('click', function () {
-			window.location = "/atv/goes450/index.php";
+			window.location = "/atv-quad-vozila/goes450/index.php";
 		});
 		var vid = document.getElementById("my-video");
 		vid.disablePictureInPicture = true;

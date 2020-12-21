@@ -37,7 +37,7 @@ require_once("../navigation.php");
 				</div>
 				<div class="panel-cont">
 					<div class="panel-heading">GOES 700 UTX</div>
-					<div class="panel-footer">68 000 kn</div>
+					<div class="panel-footer">75 000 kn</div>
 				</div>
 			</div>
 		</div>
