@@ -42,7 +42,8 @@ require_once("../navigation.php");
 		<span class="sr-only">Next</span>
 	</a>
 </div>
-</div>
+
+
 
 <div class="container">
 

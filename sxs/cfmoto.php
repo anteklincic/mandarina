@@ -5,7 +5,7 @@ require_once("../navigation.php");
 ?>
 
 
-</div>
+
 
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="7000">
@@ -25,73 +25,73 @@ require_once("../navigation.php");
 	</div>
 </div>
 
-	<div class="container">
+<div class="container">
 	<img src="/cfmoto.png" alt="" id="cfmoto">
 	<p id="pdv">PDV(25%) je uključen u cijenu svih vozila</p>
-		<div class="row">
-			<div class="col-sm-6 col-xs-12 col-lg-4">
-				<div class="panel panel-primary">
-					<div class="panel-body">
-						<a href="zforce550ex/index.php"><img src="1.png" class="img-responsive" style="width:100%"
-								alt="Image"></a>
-					</div>
-					<div class="panel-cont">
-						<div class="panel-heading">CFMOTO ZFORCE 550 EX</div>
-						<div class="panel-footer">75 000 kn</div>
-					</div>
+	<div class="row">
+		<div class="col-sm-6 col-xs-12 col-lg-4">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<a href="zforce550ex/index.php"><img src="1.png" class="img-responsive" style="width:100%"
+							alt="Image"></a>
 				</div>
-			</div>
-			<div class="col-sm-6 col-xs-12 col-lg-4">
-				<div class="panel panel-primary">
-					<div class="panel-body">
-						<a href="zforce1000eps/index.php"><img src="2.png" class="img-responsive" style="width:100%"
-								alt="Image"></a>
-					</div>
-					<div class="col">
-						<div class="panel-heading">CFMOTO ZFORCE 1000 EPS</div>
-						<div class="panel-footer">98 000 kn</div>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-sm-6 col-xs-12 col-lg-4">
-				<div class="panel panel-primary">
-					<div class="panel-body">
-						<a href="zforce1000sport/index.php"><img src="3.jpg" class="img-responsive" style="width:100%"
-								alt="Image"></a>
-					</div>
-					<div class="panel-heading">CFMOTO ZFORCE 1000 SPORT</div>
-					<div class="panel-footer">115 000 kn</div>
-				</div>
-			</div>
-
-			<div class="col-sm-6 col-xs-12 col-lg-4">
-				<div class="panel panel-primary">
-					<div class="panel-body">
-						<a href="uforce550/index.php"><img src="4.jpg" class="img-responsive" style="width:100%"
-								alt="Image"></a>
-					</div>
-					<div class="panel-heading">CFMOTO UFORCE 550</div>
+				<div class="panel-cont">
+					<div class="panel-heading">CFMOTO ZFORCE 550 EX</div>
 					<div class="panel-footer">75 000 kn</div>
 				</div>
 			</div>
-
-
-			<div class="col-sm-6 col-xs-12 col-lg-4">
-				<div class="panel panel-primary">
-					<div class="panel-body">
-						<a href="uforce1000eps/index.php"><img src="5.jpg" class="img-responsive" style="width:100%"
-								alt="Image"></a>
-					</div>
-					<div class="panel-heading">CFMOTO UFORCE 1000 EPS</div>
-					<div class="panel-footer">102 000 kn</div>
+		</div>
+		<div class="col-sm-6 col-xs-12 col-lg-4">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<a href="zforce1000eps/index.php"><img src="2.png" class="img-responsive" style="width:100%"
+							alt="Image"></a>
+				</div>
+				<div class="col">
+					<div class="panel-heading">CFMOTO ZFORCE 1000 EPS</div>
+					<div class="panel-footer">98 000 kn</div>
 				</div>
 			</div>
-
-
 		</div>
-	</div><br>
-</div>
+
+		<div class="col-sm-6 col-xs-12 col-lg-4">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<a href="zforce1000sport/index.php"><img src="3.jpg" class="img-responsive" style="width:100%"
+							alt="Image"></a>
+				</div>
+				<div class="panel-heading">CFMOTO ZFORCE 1000 SPORT</div>
+				<div class="panel-footer">115 000 kn</div>
+			</div>
+		</div>
+
+		<div class="col-sm-6 col-xs-12 col-lg-4">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<a href="uforce550/index.php"><img src="4.jpg" class="img-responsive" style="width:100%"
+							alt="Image"></a>
+				</div>
+				<div class="panel-heading">CFMOTO UFORCE 550</div>
+				<div class="panel-footer">75 000 kn</div>
+			</div>
+		</div>
+
+
+		<div class="col-sm-6 col-xs-12 col-lg-4">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<a href="uforce1000eps/index.php"><img src="5.jpg" class="img-responsive" style="width:100%"
+							alt="Image"></a>
+				</div>
+				<div class="panel-heading">CFMOTO UFORCE 1000 EPS</div>
+				<div class="panel-footer">102 000 kn</div>
+			</div>
+		</div>
+
+
+	</div>
+</div><br>
+
 
 
 
@@ -117,8 +117,6 @@ require_once("../navigation.php");
 	var x = window.matchMedia("(max-width: 992px)")
 	myFunction(x) // Call listener function at run time
 	x.addListener(myFunction) // Attach listener function on state changes 
-
-
 </script>
 </body>
 
