@@ -37,7 +37,7 @@ require_once("../navigation.php");
 				</div>
 				<div class="panel-cont">
 					<div class="panel-heading">CFMOTO ZFORCE 550 EX</div>
-					<div class="panel-footer">75 000 kn</div>
+					<div class="panel-footer">78 000 kn</div>
 				</div>
 			</div>
 		</div>
@@ -61,7 +61,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO ZFORCE 1000 SPORT</div>
-				<div class="panel-footer">115 000 kn</div>
+				<div class="panel-footer">120 000 kn</div>
 			</div>
 		</div>
 
@@ -72,7 +72,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO UFORCE 550</div>
-				<div class="panel-footer">75 000 kn</div>
+				<div class="panel-footer">78 000 kn</div>
 			</div>
 		</div>
 
@@ -84,7 +84,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO UFORCE 1000 EPS</div>
-				<div class="panel-footer">102 000 kn</div>
+				<div class="panel-footer">105 000 kn</div>
 			</div>
 		</div>
 

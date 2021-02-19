@@ -40,7 +40,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450S</div>
-				<div class="panel-footer ">39 500 kn</div>
+				<div class="panel-footer ">44 000 kn</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-xs-12 col-lg-4">
@@ -51,7 +51,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450L</div>
-				<div class="panel-footer">44 000 kn</div>
+				<div class="panel-footer">45 500 kn</div>
 			</div>
 		</div>
 
@@ -63,7 +63,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520S</div>
-				<div class="panel-footer">44 000 kn</div>
+				<div class="panel-footer">45 500 kn</div>
 			</div>
 		</div>
 
@@ -75,7 +75,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520S EPS</div>
-				<div class="panel-footer">48 000 kn</div>
+				<div class="panel-footer">Na upit</div>
 			</div>
 		</div>
 
@@ -87,7 +87,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520L</div>
-				<div class="panel-footer">48 000 kn</div>
+				<div class="panel-footer">49 500 kn</div>
 			</div>
 		</div>
 
@@ -99,7 +99,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520L EPS</div>
-				<div class="panel-footer">52 000 kn</div>
+				<div class="panel-footer">Na upit</div>
 			</div>
 		</div>
 
@@ -147,7 +147,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 1000 EPS</div>
-				<div class="panel-footer">80 000 kn</div>
+				<div class="panel-footer">81 500 kn</div>
 			</div>
 		</div>
 
