@@ -75,7 +75,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520S EPS</div>
-				<div class="panel-footer">Na upit</div>
+				<div class="panel-footer">Cijena na upit</div>
 			</div>
 		</div>
 
@@ -99,7 +99,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520L EPS</div>
-				<div class="panel-footer">Na upit</div>
+				<div class="panel-footer">Cijena na upit</div>
 			</div>
 		</div>
 
