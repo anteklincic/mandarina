@@ -119,7 +119,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="/atv-quad-vozila/cfmoto/cforce-625l-eps"><img src="/atv-quad-vozila/cfmoto/images/6.jpg"
+					<a href="/atv-quad-vozila/cfmoto/cforce-625l"><img src="/atv-quad-vozila/cfmoto/images/6.jpg"
 							class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 625L EPS</div>
