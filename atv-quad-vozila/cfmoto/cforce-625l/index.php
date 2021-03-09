@@ -1,5 +1,5 @@
 <?php
-$title = "CFMOTO CFORCE 625L EPS";
+$title = "CFMOTO CFORCE 625L";
 $description = "Najtraženiji model ATV-a, ne samo u Hrvatskoj, već i na glovbalnoj razini! Kombinacija snage i veličine, uz najsavremeniji dizajn i ozbiljne tehničke mogućnosti, impresionirt će i najzahtjevnije vozače. Za ovog tereca ne postoje prepreke. Zavrtite svijet oko sebe!";
  require_once("../../../header.php");
  require_once("../../../navigation.php"); 

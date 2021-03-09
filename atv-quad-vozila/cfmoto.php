@@ -122,7 +122,7 @@ require_once("../navigation.php");
 					<a href="/atv-quad-vozila/cfmoto/cforce-625l"><img src="/atv-quad-vozila/cfmoto/images/6.jpg"
 							class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
-				<div class="panel-heading">CFMOTO CFORCE 625L EPS</div>
+				<div class="panel-heading">CFMOTO CFORCE 625L</div>
 				<div class="panel-footer">64 000 kn</div>
 			</div>
 		</div>
