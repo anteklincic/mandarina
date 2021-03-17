@@ -84,7 +84,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO UFORCE 1000 EPS</div>
-				<div class="panel-footer">105 000 kn</div>
+				<div class="panel-footer">115 000 kn</div>
 			</div>
 		</div>
 
