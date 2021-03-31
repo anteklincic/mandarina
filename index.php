@@ -170,7 +170,7 @@ require_once("sendmail.php");
 		var touchmoved;
 		$("#my-video").on('touchend', function (e) {
 			if (touchmoved != true) {
-				window.location = "/atv-quad-vozila/goes450/index.php";
+				window.location = "/atv-quad-vozila/goes/goes450/index.php";
 			}
 		}).on('touchmove', function (e) {
 			touchmoved = true;
@@ -179,7 +179,7 @@ require_once("sendmail.php");
 		});
 
 		$("#my-video").on('click', function () {
-			window.location = "/atv-quad-vozila/goes450/index.php";
+			window.location = "/atv-quad-vozila/goes/goes450/index.php";
 		});
 		var vid = document.getElementById("my-video");
 		vid.disablePictureInPicture = true;

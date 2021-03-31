@@ -29,7 +29,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="goes450/index.php"><img src="9.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="goes/goes450/index.php"><img src="9.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">GOES IRON 450 MAX</div>
 				<div class="panel-footer ">44 000 kn</div>
@@ -38,7 +38,7 @@ require_once("../navigation.php");
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
 				<div class="panel-body">
-					<a href="goes550max/index.php"><img src="10.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+					<a href="goes/goes550max/index.php"><img src="10.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">GOES COBALT 550 MAX</div>
 				<div class="panel-footer">48 000 kn</div>
