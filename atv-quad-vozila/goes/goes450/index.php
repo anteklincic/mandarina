@@ -40,7 +40,8 @@ require_once("../../flexslider.php");
 
 <?php
 require_once("specifications.php");
-require_once("../../footer.php"); ?>
+require_once("../../footer.php"); 
+?>
 <script>
   flexSliderPoints = [0, 2, 3, 4];
 </script>
@@ -48,4 +49,4 @@ require_once("../../footer.php"); ?>
 <script src="/scripts/responsive-slider.js"></script>
 </body>
 
-</html>r
+</html>

@@ -26,16 +26,16 @@ if(isset($_POST['submit'])){
 
     try {
         $mail->isSMTP();
-        $mail->Host = 'mail.klincic.com';
+        $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'ante';
-        $mail->Password = 'iamante1';
+        $mail->Username = 'ante.klincic@gmail.com';
+        $mail->Password = '3Kzziod!inspB';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = '587';
 
-        $mail->setFrom('ante@klincic.com');
+        $mail->setFrom('ante.klincic@gmail.com');
 
-        $mail->addAddress('atvprodaja@gmail.com'); //na ovu adresu dolazi
+        $mail->addAddress('matematic1337cs@gmail.com'); //na ovu adresu dolazi
 
         $mail->isHTML(true);
         $mail->Subject = 'MandarinaMoto poruka sa stranice';

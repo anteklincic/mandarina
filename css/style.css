@@ -761,6 +761,11 @@ margin-bottom: 0; */
   height: 70px;
 }
 
+#snarler {
+  filter: invert(0.75);
+  margin-top: 30px;
+  height: 70px;
+}
 #dropdownMenu1 {
   color: white;
   letter-spacing: 5px;
