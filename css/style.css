@@ -53,7 +53,7 @@ nav ul{
 }
 nav ul li{
   float: left;
-  display: inline-block;
+  /* display: inline-block; */
   background: #1b1b1b;
   margin: 0 5px;
 }
@@ -600,8 +600,8 @@ font-size: 1em;
 font-weight: normal;
 text-transform: uppercase;
 padding: 13px 20px;
-margin-bottom: 0; */
-}
+margin-bottom: 0; 
+}*/
 
 .quote {
 	margin-bottom: 20px;
@@ -751,6 +751,13 @@ margin-bottom: 0; */
   }
 }
 
+#segway {
+  width: 110px;
+  margin-top: 40px;
+}
+
+
+
 #cfmoto {
   margin-top: 50px;
   height: 70px;
@@ -761,11 +768,14 @@ margin-bottom: 0; */
   height: 70px;
 }
 
-#snarler {
+/* #snarler {
   filter: invert(0.75);
   margin-top: 30px;
   height: 70px;
-}
+} */
+
+
+
 #dropdownMenu1 {
   color: white;
   letter-spacing: 5px;

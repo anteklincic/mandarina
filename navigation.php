@@ -17,7 +17,7 @@
                   <ul>
                         <li><a href="/atv-quad-vozila/cfmoto.php">CFMOTO</a></li>
                         <li><a href="/atv-quad-vozila/goes.php">GOES</a></li>
-                        <li><a href="/atv-quad-vozila/snarler.php">SNARLER</a></li>
+                        <li><a href="/atv-quad-vozila/segway.php">SEGWAY</a></li>
                   </ul>
             </li>
             <li>
@@ -27,7 +27,6 @@
                   <ul>
                         <li><a href="/sxs/cfmoto.php">CFMOTO</a></li>
                         <li><a href="/sxs/goes.php">GOES</a></li>
-                        <li><a href="/atv-quad-vozila/snarler.php">SNARLER</a></li>
                   </ul>
             </li>
             <li><a href="/motorcycles/">MOTOCIKLI</a></li>
