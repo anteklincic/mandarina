@@ -15,16 +15,17 @@
                   <a href="#">ATV</a>
                   <input type="checkbox" id="btn-1">
                   <ul>
+                        <li><a href="/atv-quad-vozila/segway.php">SEGWAY</a></li>
                         <li><a href="/atv-quad-vozila/cfmoto.php">CFMOTO</a></li>
                         <li><a href="/atv-quad-vozila/goes.php">GOES</a></li>
-                        <li><a href="/atv-quad-vozila/segway.php">SEGWAY</a></li>
                   </ul>
             </li>
             <li>
-                  <label for="btn-2" class="show">SIDE-BY-SIDE +</label>
-                  <a href="#">SIDE-BY-SIDE</a>
+                  <label for="btn-2" class="show">SSV/UTV +</label>
+                  <a href="#">SSV/UTV</a>
                   <input type="checkbox" id="btn-2">
                   <ul>
+                        <li><a href="/sxs/segway.php">SEGWAY</a></li>
                         <li><a href="/sxs/cfmoto.php">CFMOTO</a></li>
                         <li><a href="/sxs/goes.php">GOES</a></li>
                   </ul>

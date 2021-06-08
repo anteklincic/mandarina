@@ -1,10 +1,10 @@
 <?php
 $title = "GOES COBALT 550 MAX";
 $description = "";
-require_once("../../header.php");
-require_once("../../navigation.php"); 
-require_once("../../slider.php");
-require_once("../../flexslider.php");
+require_once("../../../header.php");
+require_once("../../../navigation.php"); 
+require_once("../../../slider.php");
+require_once("../../../flexslider.php");
 ?>
 
 
