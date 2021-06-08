@@ -81,7 +81,7 @@ require_once("sendmail.php");
 
 				<video disableRemotePlayback autoplay loop muted id="my-video" class="video-js" preload="auto"
 				data-setup='{"fluid": true}'>
-					<source src="goes_novi.webm" type="video/webm" />
+					<source src="goes_final.webm" type="video/webm" />
 					<p class="vjs-no-js">
 						To view this video please enable JavaScript, and consider upgrading to a
 						web browser that
