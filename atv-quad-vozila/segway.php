@@ -32,7 +32,7 @@ require_once("../navigation.php");
 					<a href="segway/snarler-at6-s.php"><img src="snarler1.png" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">SEGWAY SNARLER AT6 S</div>
-				<div class="panel-footer ">54 000 kn</div>
+				<div class="panel-footer ">64 000 kn</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-xs-12 col-lg-4">
@@ -41,7 +41,7 @@ require_once("../navigation.php");
 					<a href="segway/snarler-at6-l.php"><img src="snarler2.png" class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">SEWAY SNARLER AT6 L EPS</div>
-				<div class="panel-footer">61 500 kn</div>
+				<div class="panel-footer">67 000 kn</div>
 			</div>
 		</div>
 
