@@ -40,7 +40,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450S</div>
-				<div class="panel-footer ">44 000 kn</div>
+				<div class="panel-footer ">44 500 kn</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-xs-12 col-lg-4">
@@ -51,33 +51,11 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450L</div>
-				<div class="panel-footer">45 500 kn</div>
+				<div class="panel-footer">46 500 kn</div>
 			</div>
 		</div>
 
-		<div class="col-sm-6 col-xs-12 col-lg-4">
-			<div class="panel panel-primary">
-				<div class="panel-body">
-					<a href="/atv-quad-vozila/cfmoto/cforce-520s/index.php"><img
-							src="/atv-quad-vozila/cfmoto/images/3.jpg" class="img-responsive" style="width:100%"
-							alt="Image"></a>
-				</div>
-				<div class="panel-heading">CFMOTO CFORCE 520S</div>
-				<div class="panel-footer">45 500 kn</div>
-			</div>
-		</div>
 
-		<div class="col-sm-6 col-xs-12 col-lg-4">
-			<div class="panel panel-primary">
-				<div class="panel-body">
-					<a href="/atv-quad-vozila/cfmoto/cforce-520s-eps/index.php"><img
-							src="/atv-quad-vozila/cfmoto/images/3.jpg" class="img-responsive" style="width:100%"
-							alt="Image"></a>
-				</div>
-				<div class="panel-heading">CFMOTO CFORCE 520S EPS</div>
-				<div class="panel-footer">Cijena na upit</div>
-			</div>
-		</div>
 
 		<div class="col-sm-6 col-xs-12 col-lg-4">
 			<div class="panel panel-primary">
@@ -87,21 +65,10 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 520L</div>
-				<div class="panel-footer">49 500 kn</div>
+				<div class="panel-footer">52 500 kn</div>
 			</div>
 		</div>
 
-		<div class="col-sm-6 col-xs-12 col-lg-4">
-			<div class="panel panel-primary">
-				<div class="panel-body">
-					<a href="/atv-quad-vozila/cfmoto/cforce-520l-eps/index.php"><img
-							src="/atv-quad-vozila/cfmoto/images/4.jpg" class="img-responsive" style="width:100%"
-							alt="Image"></a>
-				</div>
-				<div class="panel-heading">CFMOTO CFORCE 520L EPS</div>
-				<div class="panel-footer">Cijena na upit</div>
-			</div>
-		</div>
 
 
 		<div class="col-sm-6 col-xs-12 col-lg-4">
@@ -111,8 +78,8 @@ require_once("../navigation.php");
 							src="/atv-quad-vozila/cfmoto/images/5.jpg" class="img-responsive" style="width:100%"
 							alt="Image"></a>
 				</div>
-				<div class="panel-heading">CFMOTO CFORCE 625S EPS</div>
-				<div class="panel-footer">60 000 kn</div>
+				<div class="panel-heading">CFMOTO CFORCE 625S</div>
+				<div class="panel-footer">64 000 kn</div>
 			</div>
 		</div>
 
@@ -122,8 +89,8 @@ require_once("../navigation.php");
 					<a href="/atv-quad-vozila/cfmoto/cforce-625l"><img src="/atv-quad-vozila/cfmoto/images/6.jpg"
 							class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
-				<div class="panel-heading">CFMOTO CFORCE 625L</div>
-				<div class="panel-footer">64 000 kn</div>
+				<div class="panel-heading">CFMOTO CFORCE 625L EPS</div>
+				<div class="panel-footer">67 000 kn</div>
 			</div>
 		</div>
 
@@ -135,7 +102,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 850 EPS</div>
-				<div class="panel-footer">75 000 kn</div>
+				<div class="panel-footer">79 000 kn</div>
 			</div>
 		</div>
 
@@ -147,7 +114,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 1000 EPS</div>
-				<div class="panel-footer">81 500 kn</div>
+				<div class="panel-footer">88 000 kn</div>
 			</div>
 		</div>
 
