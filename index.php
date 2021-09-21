@@ -76,7 +76,7 @@ require_once("sendmail.php");
 
 <div class="row mt-4">
 
-	<div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
+	<!-- <div class="col-md-12 col-lg-6 px-0 pr-lg-3 pr-xl-3">
 	
 
 				<video disableRemotePlayback autoplay loop muted id="my-video" class="video-js" preload="auto"
@@ -89,7 +89,7 @@ require_once("sendmail.php");
 					</p>
 				</video>
 	
-	</div>
+	</div> -->
 
 
 
@@ -157,7 +157,7 @@ require_once("sendmail.php");
 
 <?php require_once("footer.php"); ?>
 
-<script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script>
+<!-- <script src="https://vjs.zencdn.net/7.10.2/video.min.js"></script> -->
 
 <script>
 	if (window.history.replaceState) {
@@ -166,32 +166,32 @@ require_once("sendmail.php");
 </script>
 
 <script>
-	$(document).ready(function () {
-		var touchmoved;
-		$("#my-video").on('touchend', function (e) {
-			if (touchmoved != true) {
-				window.location = "/atv-quad-vozila/goes/goes450/index.php";
-			}
-		}).on('touchmove', function (e) {
-			touchmoved = true;
-		}).on('touchstart', function () {
-			touchmoved = false;
-		});
+	// $(document).ready(function () {
+	// 	var touchmoved;
+	// 	$("#my-video").on('touchend', function (e) {
+	// 		if (touchmoved != true) {
+	// 			window.location = "/atv-quad-vozila/goes/goes450/index.php";
+	// 		}
+	// 	}).on('touchmove', function (e) {
+	// 		touchmoved = true;
+	// 	}).on('touchstart', function () {
+	// 		touchmoved = false;
+	// 	});
 
-		$("#my-video").on('click', function () {
-			window.location = "/atv-quad-vozila/goes/goes450/index.php";
-		});
-		var vid = document.getElementById("my-video");
-		vid.disablePictureInPicture = true;
-		vid.muted = true;
-	});
+	// 	$("#my-video").on('click', function () {
+	// 		window.location = "/atv-quad-vozila/goes/goes450/index.php";
+	// 	});
+	// 	var vid = document.getElementById("my-video");
+	// 	vid.disablePictureInPicture = true;
+	// 	vid.muted = true;
+	// });
 
 
 
-	videojs('my-video').ready(function () {
-		console.log("fa");
-		this.play();
-	});
+	// videojs('my-video').ready(function () {
+	// 	console.log("fa");
+	// 	this.play();
+	// });
 
 	$(document).bind('keyup', function (e) {
 		if (e.which == 39) {
@@ -201,15 +201,15 @@ require_once("sendmail.php");
 		}
 	});
 
-	$('#goes-div').on('click touchstart', function () {
-		window.open("https://www.youraddress.com", "_self");
-		console.log("LOL");
-	});
+	// $('#goes-div').on('click touchstart', function () {
+	// 	window.open("https://www.youraddress.com", "_self");
+	// 	console.log("LOL");
+	// });
 
-	$('.my-video').on('click touchstart', function () {
-		window.open("https://www.youraddress.com", "_self");
-		console.log("LOL");
-	});
+	// $('.my-video').on('click touchstart', function () {
+	// 	window.open("https://www.youraddress.com", "_self");
+	// 	console.log("LOL");
+	// });
 
 	// 	function changeSliderImage(x) {
 	//     const slider1 = document.getElementById("slide1");
