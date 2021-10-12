@@ -120,6 +120,20 @@ require_once("../navigation.php");
 
 
 
+		<div class="col-sm-6 col-xs-12 col-lg-4">
+			<div class="panel panel-primary">
+				<div class="panel-body">
+					<a href="/atv-quad-vozila/cfmoto/cforce-1000-overland-t3b/index.php"><img
+							src="/atv-quad-vozila/cfmoto/images/9.jpg" class="img-responsive" style="width:100%"
+							alt="Image"></a>
+				</div>
+				<div class="panel-heading">CFMOTO CFORCE 1000 OVERLAND T3b</div>
+				<div class="panel-footer">96 500 kn</div>
+			</div>
+		</div>
+
+
+
 
 	</div>
 
