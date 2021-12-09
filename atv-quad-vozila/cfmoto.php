@@ -40,7 +40,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 450S</div>
-				<div class="panel-footer ">44 500 kn</div>
+				<div class="panel-footer ">40 000 kn</div>
 			</div>
 		</div>
 		<div class="col-sm-6 col-xs-12 col-lg-4">
@@ -79,7 +79,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 625S</div>
-				<div class="panel-footer"><s>64 000 kn </s><span id="la" style="background-color: #FFFF00"> -7%</span> <span id="lol">59 520 kn</span></div>
+				<div class="panel-footer"><s>64 000 kn </s><span id="la" style="background-color: #FFFF00">59 520 kn</span></div>
 			</div>
 		</div>
 
@@ -90,7 +90,7 @@ require_once("../navigation.php");
 							class="img-responsive" style="width:100%" alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 625L EPS</div>
-				<div class="panel-footer"><s>68 500 kn </s> <span id="la" style="background-color: #FFFF00"> -7%</span> <span id="lol">63 705 kn</span></div>
+				<div class="panel-footer"><s>64 900 kn </s> <span id="la" style="background-color: #FFFF00">63 705 kn</span></div>
 			</div>
 		</div>
 
@@ -102,7 +102,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 850 EPS</div>
-				<div class="panel-footer">79 000 kn</div>
+				<div class="panel-footer">80 990 kn</div>
 			</div>
 		</div>
 
@@ -114,7 +114,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 1000 EPS</div>
-				<div class="panel-footer">88 000 kn</div>
+				<div class="panel-footer">88 900 kn</div>
 			</div>
 		</div>
 

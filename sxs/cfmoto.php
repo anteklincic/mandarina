@@ -37,7 +37,7 @@ require_once("../navigation.php");
 				</div>
 				<div class="panel-cont">
 					<div class="panel-heading">CFMOTO ZFORCE 550 EX</div>
-					<div class="panel-footer">93 500 kn</div>
+					<div class="panel-footer">96 500 kn</div>
 				</div>
 			</div>
 		</div>
