@@ -128,7 +128,7 @@ require_once("../navigation.php");
 							alt="Image"></a>
 				</div>
 				<div class="panel-heading">CFMOTO CFORCE 1000 OVERLAND T3b</div>
-				<div class="panel-footer">96 500 kn</div>
+				<div class="panel-footer">96 800 kn</div>
 			</div>
 		</div>
 
