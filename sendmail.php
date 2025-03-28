@@ -28,8 +28,8 @@ if(isset($_POST['submit'])){
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'ante.klincic@gmail.com';
-        $mail->Password = '3Kzziod!inspB';
+        $mail->Username = 'promijeni@gmail.com';
+        $mail->Password = 'tajna-sigra-promijeni';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = '587';
 
